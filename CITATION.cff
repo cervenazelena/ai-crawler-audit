@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "Ak tento nástroj použijete, citujte ho prosím takto."
+title: "AI Crawler Audit: overovanie návštev AI crawlerov v serverových logoch"
+abstract: >-
+  Nástroj na zistenie, ktoré AI crawlery reálne navštevujú webovú stránku,
+  a na odlíšenie pravých botov od tých, ktoré si ich user-agent iba nastavili.
+  Overuje pravosť porovnaním zdrojovej IP adresy s oficiálnymi rozsahmi
+  prevádzkovateľov. Súčasťou je WordPress plugin na priebežné logovanie.
+type: software
+license: MIT
+version: 1.0.0
+date-released: "2026-09-21"
+# POZNÁMKA: doplňte mená jednotlivých autorov nad organizáciu, ak ich chcete uviesť menovite.
+authors:
+  - name: "ČZ o.z."
+    address: "Budimír"
+    country: SK
+    website: "https://www.cervenazelena.sk/"
+url: "https://www.cervenazelena.sk/"
+# POZNÁMKA: po vytvorení repozitára nahraďte GITHUB-UCET skutočným menom účtu.
+repository-code: "https://github.com/GITHUB-UCET/ai-crawler-audit"
+keywords:
+  - web crawlers
+  - AI crawlers
+  - GPTBot
+  - ClaudeBot
+  - Common Crawl
+  - large language models
+  - training data
+  - server logs
+  - bot verification
+  - WordPress

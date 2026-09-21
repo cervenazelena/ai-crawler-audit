@@ -1,0 +1,37 @@
+{
+  "title": "AI Crawler Audit: overovanie návštev AI crawlerov v serverových logoch",
+  "description": "<p>Nástroj na zistenie, ktoré AI crawlery reálne navštevujú webovú stránku, a na odlíšenie pravých botov od tých, ktoré si ich user-agent iba nastavili.</p><p>Rozpoznáva 34 crawlerov (OpenAI, Anthropic, Google, Perplexity, ByteDance, Meta, Apple, Amazon, Cohere, Mistral, Common Crawl a ďalšie) a overuje ich pravosť porovnaním zdrojovej IP adresy s oficiálnymi rozsahmi, ktoré prevádzkovatelia zverejňujú. Rozlišuje tri druhy návštev: zber dát na trénovanie modelu, budovanie indexu pre AI vyhľadávanie a priame stiahnutie stránky na žiadosť používateľa.</p><p>Súčasťou je WordPress mu-plugin na priebežné zaznamenávanie návštev AI crawlerov.</p><p>Vzniklo pri výskume toho, ako sa obsah slovenského webu dostáva do veľkých jazykových modelov, pre časopis Červená Zelená (ISSN 2989-4131).</p>",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "language": "slk",
+  "creators": [
+    {
+      "name": "ČZ o.z.",
+      "affiliation": "Červená Zelená (ISSN 2989-4131), Budimír, Slovensko"
+    }
+  ],
+  "keywords": [
+    "web crawlers",
+    "AI crawlers",
+    "GPTBot",
+    "ClaudeBot",
+    "Common Crawl",
+    "large language models",
+    "training data",
+    "server logs",
+    "log analysis",
+    "bot verification",
+    "WordPress",
+    "slovenčina"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.cervenazelena.sk/",
+      "relation": "isSupplementTo",
+      "scheme": "url",
+      "resource_type": "publication-periodicalissue"
+    }
+  ],
+  "notes": "Vydáva ČZ o.z., vydavateľ časopisu Červená Zelená (ISSN 2989-4131), https://www.cervenazelena.sk/"
+}

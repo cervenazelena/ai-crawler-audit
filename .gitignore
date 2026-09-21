@@ -1,0 +1,16 @@
+# stiahnuté IP rozsahy - generujú sa cez stiahni_ip_rozsahy.py
+ips_*.json
+
+# výstupy analýzy - môžu obsahovať IP adresy návštevníkov
+ai_boti_zasahy.csv
+*.log
+!priklad.log
+
+# logy stiahnuté zo servera
+logy/
+logs/
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
