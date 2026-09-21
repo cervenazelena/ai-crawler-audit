@@ -28,6 +28,8 @@ Tento nástroj preto porovnáva IP adresu každého zásahu s **oficiálnymi roz
 ## Použitie
 
 ```bash
+git clone https://github.com/cervenazelena/ai-crawler-audit.git
+cd ai-crawler-audit
 python stiahni_ip_rozsahy.py                 # raz na začiatku, potom občas znova
 python analyza_ai_botov.py /cesta/k/logom/   # súbor, adresár aj .gz archívy
 ```

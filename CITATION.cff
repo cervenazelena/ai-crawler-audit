@@ -17,8 +17,7 @@ authors:
     country: SK
     website: "https://www.cervenazelena.sk/"
 url: "https://www.cervenazelena.sk/"
-# POZNÁMKA: po vytvorení repozitára nahraďte GITHUB-UCET skutočným menom účtu.
-repository-code: "https://github.com/GITHUB-UCET/ai-crawler-audit"
+repository-code: "https://github.com/cervenazelena/ai-crawler-audit"
 keywords:
   - web crawlers
   - AI crawlers
