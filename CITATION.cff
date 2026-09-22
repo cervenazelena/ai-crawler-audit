@@ -8,6 +8,7 @@ abstract: >-
   prevádzkovateľov. Súčasťou je WordPress plugin na priebežné logovanie.
 type: software
 license: MIT
+doi: 10.5281/zenodo.22902220
 version: 1.0.1
 date-released: "2026-09-22"
 # POZNÁMKA: doplňte mená jednotlivých autorov nad organizáciu, ak ich chcete uviesť menovite.

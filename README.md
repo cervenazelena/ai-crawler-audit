@@ -1,5 +1,7 @@
 # AI Crawler Audit
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22902220.svg)](https://doi.org/10.5281/zenodo.22902220)
+
 Nástroj na zistenie, **ktoré AI crawlery reálne navštevujú váš web** — a ktoré sa za ne len vydávajú.
 
 Vyvinuté pre [cervenazelena.sk](https://www.cervenazelena.sk/) pri výskume toho, ako sa obsah slovenského webu dostáva do veľkých jazykových modelov.
@@ -49,6 +51,13 @@ Očakáva Apache/nginx **combined** formát. Beží na čistom Python 3.8+, žia
 **Nie každý zverejňuje rozsahy.** Perplexity, ByteDance, Meta a ďalší nie. Ich zásahy dostanú `neoveriteľné` — nie `pravé`.
 
 **Overená IP potvrdzuje pôvod, nie úmysel.** Hovorí, že požiadavka prišla z infraštruktúry firmy. Čo s dátami ďalej spravia, z logu nevyčítate.
+
+## Citovanie
+
+Archivované na Zenode s trvalým DOI. Tento odkaz vedie vždy na najnovšiu verziu:
+
+> ČZ o.z. (2026). *AI Crawler Audit: overovanie návštev AI crawlerov v serverových logoch*.
+> Zenodo. https://doi.org/10.5281/zenodo.22902220
 
 ## Licencia
 
